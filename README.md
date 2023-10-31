@@ -8,7 +8,7 @@ IBM Data Science Capstone Project
 
 # METHODOLOGY
 Data Collection
-1. Accessing AP
+1. Accessing API
 2. Web Scraping
 3. Data Wangling
 EDA
