@@ -11,6 +11,7 @@ Data Collection
 1. Accessing API
 2. Web Scraping
 3. Data Wangling
+
 EDA
 1. Exploratory Data Analysis using SQL
 2. Data Visualization
