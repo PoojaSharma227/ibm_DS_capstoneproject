@@ -17,6 +17,7 @@ EDA
 2. Data Visualization
 3. Interactive Visual Analysis using Folium
 4. Building Interactive Dashboard using Ploty and Dash
+
 Prediction 
 1. Predictive Analysis using Machine Learning
 
