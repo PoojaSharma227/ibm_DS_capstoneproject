@@ -23,7 +23,7 @@ Prediction
 -[@PoojaSharma227](https://www.github.com/PoojaSharma227)
 
 # feedback
-if you have any feeback, please reach out to me at poojaangel227@gmail.com
+if you have any feedback, please reach out to me at poojaangel227@gmail.com
 
 # License
 [MIT License](LICENSE)
