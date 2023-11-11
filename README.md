@@ -4,7 +4,8 @@ IBM Data Science Capstone Project
 # project
 # Space X Falcon 9 First Stage Landing Prediction
 1. it contains jupyter notebooks and files
-2. it contains final presentation as well.
+2. it contains final presentation as well. (sorry, its removed because i have seen people using my ppt as theirs)
+3. (still if u need ppt for reference feel free to mail me on below email.id )
 
 # METHODOLOGY
 Data Collection
